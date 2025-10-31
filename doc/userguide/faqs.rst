@@ -25,3 +25,12 @@ DOI provided through Zenodo for every major release of the software.
 Pastas is not an acronym for something. That is why it is not written as PASTAS.
 However, we like a good pasta every once in a while, and as that name was already
 taken in the Python Packaging Index, we chose for Pastas as the name of the package.
+
+.. rubric:: I can now make a simple model, how do I evaluate different stresses and responses?
+
+- Evaluating models generally requires some experience. For Dutch users there is 
+guideline Handleiding Tijdreeksanalyse (`STOWA rapport nr. 32 <https://www.stowa.nl/
+publicaties/handleiding-voor-het-uitvoeren-van-tijdreeksanalyses>`_).
+- The the corresponding notebooks have been translated to english and can be found 
+here  `Time Series Analysis Manual <https://pastas.readthedocs.io/
+stable/examples/index.html#time-series-analysis-manual>`
